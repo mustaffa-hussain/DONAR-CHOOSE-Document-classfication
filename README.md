@@ -1,4 +1,4 @@
-# Multinomial-Naive-Bayes-on-DONAR-CHOOSE
+# Naive-Bayes-on-DONAR-CHOOSE
 It contains application of naive bayes model on a big textual data set. The problems is an example of NLP based solution on 2 different kind of vetorization.
 
 DonorsChoose is a United States–based nonprofit organization that allows individuals to donate directly to public school classroom projects. Founded in 2000 by former public school teacher Charles Best, DonorsChoose was among the first civic crowdfunding platforms of its kind.
